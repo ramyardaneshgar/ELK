@@ -94,8 +94,8 @@ Regex queries identified **70 ransomware incidents** involving "client_list" fil
 ---
 
 ### Lessons Learned
-- Master Syntax: Proficiency in KQL and Lucene is indispensable for constructing precise, context-aware queries.
-- Use Logical Operators Effectively: Strategically combine AND/OR conditions to refine search results and filter complex log data.
-- Automate Repetitive Tasks: Save commonly used queries and leverage dashboards for faster and consistent execution.
-- Regular Query Optimization: Continuously evaluate and fine-tune queries to adapt to evolving datasets and organizational threat landscapes.
-- Test Against Real-World Scenarios: Validate query performance using realistic datasets to ensure relevance and accuracy during critical incidents.
+- Proficiency in KQL and Lucene is indispensable for constructing precise, context-aware queries.
+- Strategically combine AND/OR conditions to refine search results and filter complex log data.
+- Save commonly used queries and leverage dashboards for faster and consistent execution.
+- Continuously evaluate and fine-tune queries to adapt to evolving datasets and organizational threat landscapes.
+- Validate query performance using realistic datasets to ensure relevance and accuracy during critical incidents.
