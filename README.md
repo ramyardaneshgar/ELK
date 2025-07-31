@@ -1,5 +1,5 @@
-# THM-ELK
-Writeup for TryHackMe Adanced ELK Queries -  Install, configure, and integrate the ELK stack with Wazuh alerts and advanced KQL queries for comprehensive log analysis.
+# ELK
+Adanced ELK Queries -  Install, configure, and integrate the ELK stack with Wazuh alerts and advanced KQL queries for comprehensive log analysis.
 
 By Ramyar Daneshgar 
 
@@ -35,7 +35,7 @@ These techniques are invaluable for investigating user activity or identifying m
 
 ### **3. Leveraging Range Queries for Temporal and Severity Analysis**
 
-Cybersecurity incidents often require filtering logs by numeric values (e.g., severity levels) or timestamps. Range queries streamline this process, for instance:
+Cybersecurity incidents often require filtering logs by numeric values (severity levels) or timestamps. Range queries streamline this process, for instance:
 - Querying numeric ranges to identify incidents meeting specific thresholds:
   ```kql
   severity >= 9
